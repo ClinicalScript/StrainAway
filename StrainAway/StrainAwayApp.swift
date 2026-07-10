@@ -58,7 +58,7 @@ class BreakTimerManager: ObservableObject {
 
     private func fireBreakNotification() {
         let content = UNMutableNotificationContent()
-        content.title = "Eye break"
+        content.title = "Time To Take The Strain Away!"
         content.body = "Look at something 20 metres away for 20 seconds."
         content.sound = .default
 
