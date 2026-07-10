@@ -32,7 +32,8 @@ BUILDING FROM SOURCE
 FIRST LAUNCH
 ------------
 - macOS will ask for notification permission the first time the app runs.
-  Click Allow, or reminders will not appear.
+  Click Allow, or reminders will not appear. It is recommended to set these notifications
+  from temporary to persistent, System Settings > Notifications > StrainAway > toggle Altert Style to Persistent
 - Since this app is not notarised through the Apple Developer Program,
   Gatekeeper may block it as being from an unidentified developer if
   downloaded rather than built locally. Right-click the app and choose
