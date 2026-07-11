@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F594E98A30014AE40006F2B3 /* StrainAway.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StrainAway.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F5C3470E30028E7000620BD6 /* StrainAway.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StrainAway.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F594E98C30014AE40006F2B3 /* StrainAway */ = {
+		F5C3471030028E7000620BD6 /* StrainAway */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = StrainAway;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F594E98730014AE40006F2B3 /* Frameworks */ = {
+		F5C3470B30028E7000620BD6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F594E98130014AE40006F2B3 = {
+		F5C3470530028E7000620BD6 = {
 			isa = PBXGroup;
 			children = (
-				F594E98C30014AE40006F2B3 /* StrainAway */,
-				F594E98B30014AE40006F2B3 /* Products */,
+				F5C3471030028E7000620BD6 /* StrainAway */,
+				F5C3470F30028E7000620BD6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F594E98B30014AE40006F2B3 /* Products */ = {
+		F5C3470F30028E7000620BD6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F594E98A30014AE40006F2B3 /* StrainAway.app */,
+				F5C3470E30028E7000620BD6 /* StrainAway.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F594E98930014AE40006F2B3 /* StrainAway */ = {
+		F5C3470D30028E7000620BD6 /* StrainAway */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F594E99530014AE50006F2B3 /* Build configuration list for PBXNativeTarget "StrainAway" */;
+			buildConfigurationList = F5C3471930028E7100620BD6 /* Build configuration list for PBXNativeTarget "StrainAway" */;
 			buildPhases = (
-				F594E98630014AE40006F2B3 /* Sources */,
-				F594E98730014AE40006F2B3 /* Frameworks */,
-				F594E98830014AE40006F2B3 /* Resources */,
+				F5C3470A30028E7000620BD6 /* Sources */,
+				F5C3470B30028E7000620BD6 /* Frameworks */,
+				F5C3470C30028E7000620BD6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F594E98C30014AE40006F2B3 /* StrainAway */,
+				F5C3471030028E7000620BD6 /* StrainAway */,
 			);
 			name = StrainAway;
 			packageProductDependencies = (
 			);
 			productName = StrainAway;
-			productReference = F594E98A30014AE40006F2B3 /* StrainAway.app */;
+			productReference = F5C3470E30028E7000620BD6 /* StrainAway.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F594E98230014AE40006F2B3 /* Project object */ = {
+		F5C3470630028E7000620BD6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2660;
 				LastUpgradeCheck = 2660;
 				TargetAttributes = {
-					F594E98930014AE40006F2B3 = {
+					F5C3470D30028E7000620BD6 = {
 						CreatedOnToolsVersion = 26.6;
 					};
 				};
 			};
-			buildConfigurationList = F594E98530014AE40006F2B3 /* Build configuration list for PBXProject "StrainAway" */;
+			buildConfigurationList = F5C3470930028E7000620BD6 /* Build configuration list for PBXProject "StrainAway" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = F594E98130014AE40006F2B3;
+			mainGroup = F5C3470530028E7000620BD6;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F594E98B30014AE40006F2B3 /* Products */;
+			productRefGroup = F5C3470F30028E7000620BD6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F594E98930014AE40006F2B3 /* StrainAway */,
+				F5C3470D30028E7000620BD6 /* StrainAway */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F594E98830014AE40006F2B3 /* Resources */ = {
+		F5C3470C30028E7000620BD6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F594E98630014AE40006F2B3 /* Sources */ = {
+		F5C3470A30028E7000620BD6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		F594E99330014AE50006F2B3 /* Debug */ = {
+		F5C3471730028E7100620BD6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		F594E99430014AE50006F2B3 /* Release */ = {
+		F5C3471830028E7100620BD6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -243,11 +243,12 @@
 			};
 			name = Release;
 		};
-		F594E99630014AE50006F2B3 /* Debug */ = {
+		F5C3471A30028E7100620BD6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -262,8 +263,8 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.StrainAway;
+				MARKETING_VERSION = 2;
+				PRODUCT_BUNDLE_IDENTIFIER = ClinicalScript.StrainAway;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -275,11 +276,12 @@
 			};
 			name = Debug;
 		};
-		F594E99730014AE50006F2B3 /* Release */ = {
+		F5C3471B30028E7100620BD6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -294,8 +296,8 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.StrainAway;
+				MARKETING_VERSION = 2;
+				PRODUCT_BUNDLE_IDENTIFIER = ClinicalScript.StrainAway;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -310,25 +312,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F594E98530014AE40006F2B3 /* Build configuration list for PBXProject "StrainAway" */ = {
+		F5C3470930028E7000620BD6 /* Build configuration list for PBXProject "StrainAway" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F594E99330014AE50006F2B3 /* Debug */,
-				F594E99430014AE50006F2B3 /* Release */,
+				F5C3471730028E7100620BD6 /* Debug */,
+				F5C3471830028E7100620BD6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F594E99530014AE50006F2B3 /* Build configuration list for PBXNativeTarget "StrainAway" */ = {
+		F5C3471930028E7100620BD6 /* Build configuration list for PBXNativeTarget "StrainAway" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F594E99630014AE50006F2B3 /* Debug */,
-				F594E99730014AE50006F2B3 /* Release */,
+				F5C3471A30028E7100620BD6 /* Debug */,
+				F5C3471B30028E7100620BD6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F594E98230014AE40006F2B3 /* Project object */;
+	rootObject = F5C3470630028E7000620BD6 /* Project object */;
 }

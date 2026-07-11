@@ -2,20 +2,22 @@
   "fill-specializations" : [
     {
       "value" : {
-        "automatic-gradient" : "extended-gray:0.00000,1.00000"
+        "automatic-gradient" : "extended-gray:0.75000,1.00000",
+        "orientation" : {
+          "start" : {
+            "x" : 0.5,
+            "y" : 0
+          },
+          "stop" : {
+            "x" : 0.5,
+            "y" : 0.7
+          }
+        }
       }
     },
     {
       "appearance" : "dark",
-      "value" : {
-        "automatic-gradient" : "extended-gray:0.00000,1.00000"
-      }
-    },
-    {
-      "idiom" : "square",
-      "value" : {
-        "automatic-gradient" : "extended-gray:0.00000,1.00000"
-      }
+      "value" : "system-dark"
     }
   ],
   "groups" : [
@@ -23,44 +25,26 @@
       "blur-material" : 0.5,
       "layers" : [
         {
-          "blend-mode-specializations" : [
-            {
-              "value" : "lighten"
-            },
-            {
-              "appearance" : "dark",
-              "value" : "darken"
-            }
-          ],
-          "fill" : "automatic",
           "glass" : true,
-          "hidden-specializations" : [
-            {
-              "value" : false
-            },
-            {
-              "appearance" : "light",
-              "value" : false
-            }
-          ],
-          "image-name" : "FINAL_strainaway_icon_dark_v5.svg",
-          "name" : "FINAL_strainaway_icon_dark_v5"
+          "hidden" : false,
+          "image-name" : "AppIcon_v9.svg",
+          "name" : "AppIcon_v9",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -0.4117999999999711,
+              -19.9609375
+            ]
+          }
         }
       ],
-      "lighting" : "combined",
-      "position" : {
-        "scale" : 1.7,
-        "translation-in-points" : [
-          0,
-          0
-        ]
-      },
       "shadow" : {
-        "kind" : "neutral",
+        "kind" : "layer-color",
         "opacity" : 0.5
       },
+      "specular" : true,
       "translucency" : {
-        "enabled" : true,
+        "enabled" : false,
         "value" : 0.5
       }
     }
