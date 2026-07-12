@@ -57,3 +57,11 @@ fastlane/test_output
 # DerivedData (not covered by the official Swift template, but worth excluding)
 DerivedData/
 *.xcuserstate
+
+# Python
+venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
