@@ -1,4 +1,5 @@
 StrainAway (Windows)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ====================
 
 A minimalist Windows system tray app that reminds you to follow the
@@ -80,5 +81,5 @@ KNOWN LIMITATIONS
 
 LICENCE
 -------
-This project is licensed under the MIT License — see the LICENSE file
+This project is licensed under the MIT License — see the [../LICENSE](../LICENSE.txt) file
 in the root of this repository.
