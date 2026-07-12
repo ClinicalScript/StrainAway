@@ -1,5 +1,4 @@
-# StrainAway
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# StrainAway ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A 20-20-20 eye break reminder app, available for macOS and Windows.
 
