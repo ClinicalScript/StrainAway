@@ -7,6 +7,24 @@ away for 20 seconds — a simple habit for **reducing digital eye strain**.
 
 **Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. The 20-20-20 guidance is a general habit recommendation and should not replace professional ophthalmic or medical consultation.**
 
+## Screenshots
+
+### Menu bar
+
+| Light mode | Dark mode |
+|---|---|
+| ![Light mode menu bar](screenshots/macOS_StrainAway_light_menubar.png) | ![Dark mode menu bar](screenshots/macOS_StrainAway_dark_menubar.png) |
+
+### Notifications
+
+| Light mode | Dark mode |
+|---|---|
+| ![Light mode notification](screenshots/macOS_StrainAway_light_notification.png) | ![Dark mode notification](screenshots/macOS_StrainAway_dark_notification.png) |
+
+### Installer
+
+![StrainAway DMG installer](screenshots/macOS_StrainAway_dmg.png)
+
 ## macOS
 
 Native menu bar app built with Swift and SwiftUI.
