@@ -6,7 +6,7 @@ at something 20 metres away for 20 seconds.
 
 This is the Windows counterpart to the native macOS version found in
 the mac/ folder of this repository, built in Python rather than Swift.
-For setup and build instructions for the Mac version of this app see - [../mac/README.md](../mac/README.md).
+For setup and build instructions for the Mac version of this app see the [mac README.md](../mac/README.md) file.
 
 # FEATURES
 - Lives quietly in the system tray, no taskbar window
@@ -86,7 +86,7 @@ This is open source — you're welcome to verify all of this by reading
 the source code directly.
 
 # LICENCE
-This project is licensed under the MIT License — see the [../LICENSE](../LICENSE.txt) file
+This project is licensed under the MIT License — see the [LICENSE](../LICENSE.txt) file
 in the root of this repository.
 
 # FURTHER READING ON THE 20-20-20 RULE
