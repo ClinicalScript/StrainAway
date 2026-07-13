@@ -8,14 +8,16 @@ import threading
 import platform
 import asyncio
 from pathlib import Path
-
 import pystray
 from PIL import Image
 from desktop_notifier import DesktopNotifier
 import darkdetect
+import ctypes
+import platform
+import os
 
 APP_NAME = "StrainAway"
-INTERVAL_SECONDS = 20 * 60  # 20 minutes
+INTERVAL_SECONDS = 2  # 20 minutes
 ASSETS_DIR = Path(__file__).parent / "assets"
 
 notifier = DesktopNotifier(app_name=APP_NAME)
@@ -61,7 +63,7 @@ class BreakTimer:
 break_timer = BreakTimer()
 
 
-# --- Launch at login ---
+# Launch at login
 
 def is_launch_at_login_enabled() -> bool:
     system = platform.system()
@@ -127,7 +129,21 @@ def toggle_launch_at_login():
             plist_path.write_text(plist_content)
 
 
-# --- Tray icon / menu ---
+def create_start_menu_shortcut():
+    import winshell
+    from win32com.client import Dispatch
+
+    start_menu = winshell.programs()
+    shortcut_path = os.path.join(start_menu, "StrainAway.lnk")
+    if not os.path.exists(shortcut_path):
+        shell = Dispatch("WScript.Shell")
+        shortcut = shell.CreateShortCut(shortcut_path)
+        shortcut.TargetPath = sys.executable
+        shortcut.IconLocation = str(ASSETS_DIR / "app_icon.ico")
+        shortcut.save()
+
+# Tray icon / menu
+
 
 def load_icon() -> Image.Image:
     if darkdetect.isDark():
@@ -164,6 +180,10 @@ def launch_label(item):
 
 
 def main():
+    if platform.system() == "Windows":
+        myappid = "strainaway.app.1.0"
+        ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
+
     break_timer.start()
 
     menu = pystray.Menu(
