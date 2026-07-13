@@ -7,27 +7,39 @@ away for 20 seconds — a simple habit for **reducing digital eye strain**.
 
 **Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. The 20-20-20 guidance is a general habit recommendation and should not replace professional ophthalmic or medical consultation.**
 
-## MacOS-v1.0 Screenshots
+# MacOS-v1.0 Screenshots
 
-### Menu bar
+## Menu bar
 
-| Light mode | Dark mode |
-|---|---|
-| ![Light mode menu bar](screenshots/macOS_StrainAway_light_menubar.png) | ![Dark mode menu bar](screenshots/macOS_StrainAway_dark_menubar.png) |
+**Light mode**
 
-### Menu
+![Light mode menu bar](screenshots/macOS_StrainAway_light_menubar.png)
 
-| Light mode | Dark mode |
-|---|---|
-| ![Light mode menu](screenshots/macOS_StrainAway_light_menu.png) | ![Dark mode menu](screenshots/macOS_StrainAway_dark_menu.png) |
+**Dark mode**
 
-### Notifications
+![Dark mode menu bar](screenshots/macOS_StrainAway_dark_menubar.png)
 
-| Light mode | Dark mode |
-|---|---|
-| ![Light mode notification](screenshots/macOS_StrainAway_light_notification.png) | ![Dark mode notification](screenshots/macOS_StrainAway_dark_notification.png) |
+## Menu
 
-### Installer
+**Light mode**
+
+![Light mode menu](screenshots/macOS_StrainAway_light_menu.png)
+
+**Dark mode**
+
+![Dark mode menu](screenshots/macOS_StrainAway_dark_menu.png)
+
+## Notifications
+
+**Light mode**
+
+![Light mode notification](screenshots/macOS_StrainAway_light_notification.png) 
+
+**Dark mode**
+
+![Dark mode notification](screenshots/macOS_StrainAway_dark_notification.png)
+
+## Installer
 
 ![StrainAway DMG installer](screenshots/macOS_StrainAway_dmg.png)
 
