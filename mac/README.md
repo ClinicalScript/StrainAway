@@ -1,5 +1,4 @@
-# StrainAway
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# StrainAway ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ==========
 
 A minimalist macOS menu bar app that reminds you to follow the 20-20-20 rule
