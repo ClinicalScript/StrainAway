@@ -21,7 +21,7 @@ A Windows version of this app is also available — See the [windows README.md](
 
 # BUILDING FROM SOURCE
 1. Clone this repository.
-2. Open the .xcodeproj file in Xcode (availible from the App Store on macOS).
+2. Open the .xcodeproj file in Xcode (available from the App Store on macOS).
 3. Select the app target and press Cmd+R to build and run.
 4. To create a standalone copy that runs without Xcode open:
    Product menu -> Archive -> Distribute App -> Copy App.
