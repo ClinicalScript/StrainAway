@@ -4,7 +4,7 @@ A minimalist macOS menu bar app that reminds you to follow the 20-20-20 rule
 for reducing digital eye strain: every 20 minutes, look at something 20 metres
 away for 20 seconds.
 
-A Windows version of this app is also available — See [../windows/README.md](../windows/README.md) for setup and build instructions.
+A Windows version of this app is also available — See the [windows README.md](../windows/README.md) file for setup and build instructions.
 
 **Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. The 20-20-20 guidance is a general habit recommendation and should not replace professional ophthalmic or medical consultation.**
 
