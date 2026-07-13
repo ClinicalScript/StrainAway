@@ -32,7 +32,7 @@ Please include, where possible:
 This is a solo, unpaid, hobby project, so please set expectations
 accordingly:
 - I'll do my best to acknowledge reports within a reasonable time,
-  but there's no guaranteed response window or SLA.
+  but there's no guaranteed response window or Service Level Agreement (SLA).
 - Given the app's limited scope (a local notification reminder with
   no network requests and no data collection — see the Privacy
   section of the main README), the realistic attack surface is small,
