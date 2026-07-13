@@ -69,6 +69,8 @@ pointing at the running executable.
   same kind of OS-level caching behaviour as on macOS, and may not
   always reflect the very latest icon change without a full rebuild
   or restart.
+- Currently trying to find a fix for the notification pop up showing the python
+  logo instead of the app icon
 
 # PRIVACY
 StrainAway does not collect, store, or transmit any data. It makes no
