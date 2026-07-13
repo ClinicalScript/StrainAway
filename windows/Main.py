@@ -61,7 +61,7 @@ class BreakTimer:
 break_timer = BreakTimer()
 
 
-# --- Launch at login: genuinely different per platform, no shared API ---
+# --- Launch at login ---
 
 def is_launch_at_login_enabled() -> bool:
     system = platform.system()
