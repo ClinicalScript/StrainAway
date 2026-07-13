@@ -10,12 +10,12 @@ away for 20 seconds — a simple habit for **reducing digital eye strain**.
 ## macOS
 
 Native menu bar app built with Swift and SwiftUI.
-See [mac/README.md](mac/README.md) for setup and build instructions.
+See the [mac README.md](mac/README.md) file for setup and build instructions.
 
 ## Windows
 
 Cross-platform system tray app built with Python.
-See [windows/README.md](windows/README.md) for setup and build instructions.
+See rhe [windows README.md](windows/README.md) file for setup and build instructions.
 Please note that it is still in its pre-release phase.
 
 ## Privacy
