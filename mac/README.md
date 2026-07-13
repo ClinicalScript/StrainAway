@@ -59,7 +59,7 @@ This is open source — you're welcome to verify all of this by reading
 the source code directly.
 
 # LICENCE
-This project is licensed under the MIT License — see the [../LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](../LICENSE) file for details.
 
 # FURTHER READING ON THE 20-20-20 RULE
 [Deconstructing the 20-20-20 rule for digital eye strain](https://www.optometrytimes.com/view/deconstructing-20-20-20-rule-digital-eye-strain) — Optometry Times
