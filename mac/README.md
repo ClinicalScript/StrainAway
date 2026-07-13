@@ -1,5 +1,4 @@
 # StrainAway ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-==========
 
 A minimalist macOS menu bar app that reminds you to follow the 20-20-20 rule
 for reducing digital eye strain: every 20 minutes, look at something 20 metres
@@ -10,7 +9,6 @@ A Windows version of this app is also available — See [../windows/README.md](.
 **Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. The 20-20-20 guidance is a general habit recommendation and should not replace professional ophthalmic or medical consultation.**
 
 # FEATURES
---------
 - Lives quietly in the menu bar, no Dock icon
 - Sends a native macOS notification every 20 minutes
 - Start/stop reminders from the menu bar dropdown
@@ -18,12 +16,10 @@ A Windows version of this app is also available — See [../windows/README.md](.
 - Custom app icon and menu bar glyph, with light and dark mode variants
 
 # REQUIREMENTS
-------------
 - macOS Tahoe (26) or later
 - Xcode 26 or later, if building from source
 
 # BUILDING FROM SOURCE
----------------------
 1. Clone this repository.
 2. Open the .xcodeproj file in Xcode.
 3. Select the app target and press Cmd+R to build and run.
@@ -32,7 +28,6 @@ A Windows version of this app is also available — See [../windows/README.md](.
    Drag the exported .app into /Applications.
 
 # FIRST LAUNCH
-------------
 - macOS will ask for notification permission the first time the app runs.
   Click Allow, or reminders will not appear. It is recommended to set these notifications
   from temporary to persistent, System Settings > Notifications > StrainAway > toggle Altert Style to Persistent
@@ -44,13 +39,11 @@ A Windows version of this app is also available — See [../windows/README.md](.
   app, or reminders will be silently suppressed while it's active.
 
 # LAUNCH AT LOGIN
-----------------
 Toggle this from the menu bar dropdown. Note that this only behaves
 reliably in a properly exported build sitting in /Applications, not when
 run directly from Xcode's debugger.
 
 # PRIVACY
--------
 StrainAway does not collect, store, or transmit any data. It makes no
 network requests. The only system permission it requests is local
 notification access, used solely to display break reminders. Nothing
@@ -66,13 +59,10 @@ This is open source — you're welcome to verify all of this by reading
 the source code directly.
 
 # LICENCE
--------
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 # FURTHER READING ON THE 20-20-20 RULE
-------------------------------------
 [Deconstructing the 20-20-20 rule for digital eye strain](https://www.optometrytimes.com/view/deconstructing-20-20-20-rule-digital-eye-strain) — Optometry Times
 
 # AUTHOR
-------
 ClincialScript
