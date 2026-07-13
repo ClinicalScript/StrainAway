@@ -15,7 +15,7 @@ See the [mac README.md](mac/README.md) file for setup and build instructions.
 ## Windows
 
 Cross-platform system tray app built with Python.
-See rhe [windows README.md](windows/README.md) file for setup and build instructions.
+See the [windows README.md](windows/README.md) file for setup and build instructions.
 Please note that it is still in its pre-release phase.
 
 ## Privacy
