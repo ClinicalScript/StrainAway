@@ -9,7 +9,7 @@ away for 20 seconds — a simple habit for **reducing digital eye strain**.
 
 # MacOS-v1.0 Screenshots
 
-## Menu bar
+## Menu bar - light/dark mode is dependent on the wallpaper
 
 **Light mode**
 
@@ -19,9 +19,9 @@ away for 20 seconds — a simple habit for **reducing digital eye strain**.
 
 ![Dark mode menu bar](screenshots/macOS_StrainAway_dark_menubar.png)
 
-## Menu
+## Menu - light/dark mode is dependent on the wallpaper
 
-**Light mode**
+**Light mode** 
 
 ![Light mode menu](screenshots/macOS_StrainAway_light_menu.png)
 
@@ -29,7 +29,7 @@ away for 20 seconds — a simple habit for **reducing digital eye strain**.
 
 ![Dark mode menu](screenshots/macOS_StrainAway_dark_menu.png)
 
-## Notifications
+## Notifications - light/dark mode is dependent on dark mode being enabled/disabled
 
 **Light mode**
 
