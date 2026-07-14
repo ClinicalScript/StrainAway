@@ -88,7 +88,7 @@ This is open source — you're welcome to verify all of this by reading
 the source code directly.
 
 # LICENCE
-This project is licensed under the MIT License — see the [LICENSE](../LICENSE.txt) file
+This project is licensed under the MIT License — see the [LICENSE](../LICENSE) file
 in the root of this repository.
 
 # FURTHER READING ON THE 20-20-20 RULE
