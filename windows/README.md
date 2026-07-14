@@ -28,7 +28,8 @@ For setup and build instructions for the Mac version of this app see the [mac RE
    venv\Scripts\activate
 5. Install dependencies:
    pip install -r requirements.txt
-6. Run it:
+6. **Note:** For testing, you can shorten the timer interval by editing the `interval` value in the code before building, rather than waiting 20 minutes between reminders.
+7. Run it:
    python main.py
 
 # CREATING A STANDALONE .EXE

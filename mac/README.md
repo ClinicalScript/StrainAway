@@ -22,8 +22,9 @@ A Windows version of this app is also available — See the [windows README.md](
 # BUILDING FROM SOURCE
 1. Clone this repository.
 2. Open the .xcodeproj file in Xcode (available from the App Store on macOS).
-3. Select the app target and press Cmd+R to build and run.
-4. To create a standalone copy that runs without Xcode open:
+3. **Note:** For testing, you can shorten the timer interval by editing the `interval` value in the code before building, rather than waiting 20 minutes between reminders.
+4. Select the app target and press Cmd+R to build and run.
+5. To create a standalone copy that runs without Xcode open:
    Product menu -> Archive -> Distribute App -> Copy App.
    Drag the exported .app into /Applications.
 
