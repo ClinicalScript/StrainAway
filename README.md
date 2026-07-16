@@ -2,42 +2,66 @@
 
 An eye break reminder app, available for macOS and Windows.
 
-Following the 20-20-20 rule: every 20 minutes, StrainAway reminds you to look at something 20 metres
-away for 20 seconds — a simple habit for **reducing digital eye strain**.
+By default the app followings the 20-20-20 rule: every 20 minutes, StrainAway reminds you to look at something 20 feet (6 metres)
+away for 20 seconds — a simple habit to help **reduce digital eye strain (DES)**.
 
-**Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. The 20-20-20 guidance is a general habit recommendation and should not replace professional ophthalmic or medical consultation.**
+**Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. This app acts as a general habit promoting tool and should not replace professional ophthalmic or medical consultation.**
 
-# MacOS-v1.0 Screenshots
+# MacOS-v1.1 Screenshots
 
 ## Menu bar
 
 **Light mode**
 
-![Light mode menu bar](screenshots/macOS_StrainAway_light_menubar.png)
+![Light mode menu bar](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_menubar.png)
 
 **Dark mode**
 
-![Dark mode menu bar](screenshots/macOS_StrainAway_dark_menubar.png)
+![Dark mode menu bar](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_dark_menubar.png)
 
 ## Menu
 
 **Light mode** 
 
-![Light mode menu](screenshots/macOS_StrainAway_light_menu.png)
+![Light mode menu](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_menu.png)
 
 **Dark mode**
 
-![Dark mode menu](screenshots/macOS_StrainAway_dark_menu.png)
+![Dark mode menu](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_dark_menu.png)
+
+## About StrainAway
+
+**Light mode**
+
+![Light mode about StrainAway](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_about.png)
+
+**Dark mode**
+[Dark mode about StrainAway](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_dark_about.png)
+
+## Customise Notification Settings
+
+**Light mode, Default settings**
+
+![Light mode default notification settings](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_default_settings.png)
+
+**Dark mode, Default settings**
+![Dark mode default notification settings](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_dark_default_settings.png)
+
+**Light mode, Customised settings**
+![Light mode customised notification settings](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_customised_settings.png)
 
 ## Notifications
 
 **Light mode**
 
-![Light mode notification](screenshots/macOS_StrainAway_light_notification.png) 
+![Light mode notification](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_notification.png) 
 
 **Dark mode**
 
-![Dark mode notification](screenshots/macOS_StrainAway_dark_notification.png)
+![Dark mode notification](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_dark_notification.png)
+
+**Light mode, notification from custom settings**
+[Light mode custom notification](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_custom_notification.png)
 
 ## Installer
 
@@ -46,7 +70,7 @@ away for 20 seconds — a simple habit for **reducing digital eye strain**.
 ## macOS
 
 Native menu bar app built with Swift and SwiftUI.
-See the [mac README.md](mac/README.md) file for setup and build instructions.
+See the [macOS README.md](macOS/README.md) file for setup and build instructions.
 
 ## Windows
 
@@ -76,9 +100,10 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Further reading on the 20-20-20 rule
 [Deconstructing the 20-20-20 rule for digital eye strain](https://www.optometrytimes.com/view/deconstructing-20-20-20-rule-digital-eye-strain) — Optometry Times
+[Research suggesting custom time intervals (available on macOS-v1.1) may be superior to the 20-20-20 rule](https://www.sciencedirect.com/science/article/abs/pii/S0014483525002349?via%3Dihub) - Science Direct (Elsevier)
 
 ## Author
 ClinicalScript
 
 This project — code, documentation, and design — was built with the
-assistance of Claude (Anthropic).
+assistance of Claude (Anthropic) and Gemini (Google).
