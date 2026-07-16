@@ -69,7 +69,7 @@ away for 20 seconds — a simple habit to help **reduce digital eye strain (DES)
 
 ## Installer
 
-![StrainAway DMG installer](screenshots/macOS_StrainAway_dmg.png)
+![StrainAway DMG installer](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_dmg.png)
 
 ## macOS
 
