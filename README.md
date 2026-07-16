@@ -66,7 +66,7 @@ to address this I have added a custom notification interval and break duration f
 
 ![Dark mode notification](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_dark_default_notification.png)
 
-**Light mode, notification from custom settings**
+**Light mode, notification from customised setting**
 
 ![Light mode custom notification](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_custom_notification.png)
 
