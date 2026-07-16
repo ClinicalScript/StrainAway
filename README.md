@@ -46,6 +46,7 @@ away for 20 seconds — a simple habit to help **reduce digital eye strain (DES)
 ![Light mode default notification settings](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_default_settings.png)
 
 **Dark mode, Default settings**
+
 ![Dark mode default notification settings](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_dark_default_settings.png)
 
 **Light mode, Customised settings**
@@ -62,6 +63,7 @@ away for 20 seconds — a simple habit to help **reduce digital eye strain (DES)
 ![Dark mode notification](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_dark_notification.png)
 
 **Light mode, notification from custom settings**
+
 [Light mode custom notification](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_custom_notification.png)
 
 ## Installer
