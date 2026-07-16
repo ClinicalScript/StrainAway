@@ -21,7 +21,7 @@ away for 20 seconds — a simple habit for **reducing digital eye strain**.
 
 ## Menu
 
-**Light mode**
+**Light mode** 
 
 ![Light mode menu](screenshots/macOS_StrainAway_light_menu.png)
 
