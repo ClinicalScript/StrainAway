@@ -102,8 +102,10 @@ the source code directly.
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-## Further reading on the 20-20-20 rule
+## Further reading on the 20-20-20 rule and Custom Intervals to help reduce digital eye strain (DES)
+
 [Deconstructing the 20-20-20 rule for digital eye strain](https://www.optometrytimes.com/view/deconstructing-20-20-20-rule-digital-eye-strain) — Optometry Times
+
 [Research suggesting custom time intervals (available on macOS-v1.1) may be superior to the 20-20-20 rule](https://www.sciencedirect.com/science/article/abs/pii/S0014483525002349?via%3Dihub) - Science Direct (Elsevier)
 
 ## Author
