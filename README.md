@@ -2,8 +2,11 @@
 
 An eye break reminder app, available for macOS and Windows.
 
-By default the app followings the 20-20-20 rule: every 20 minutes, StrainAway reminds you to look at something 20 feet (6 metres)
+By default the app follows the 20-20-20 rule: every 20 minutes, StrainAway reminds you to look at something 20 feet (6 metres)
 away for 20 seconds — a simple habit to help **reduce digital eye strain (DES)**.
+
+There is research to suggest the 20-20-20 rule may not be as affective as once believed, 
+to address this I have added a custom notification interval and break duration feature on macOS-v1.1.
 
 **Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. This app acts as a general habit promoting tool and should not replace professional ophthalmic or medical consultation.**
 
@@ -65,7 +68,7 @@ away for 20 seconds — a simple habit to help **reduce digital eye strain (DES)
 
 **Light mode, notification from custom settings**
 
-[Light mode custom notification](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_custom_notification.png)
+![Light mode custom notification](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_custom_notification.png)
 
 ## Installer
 
