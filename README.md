@@ -36,6 +36,7 @@ away for 20 seconds — a simple habit to help **reduce digital eye strain (DES)
 ![Light mode about StrainAway](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_light_about.png)
 
 **Dark mode**
+
 [Dark mode about StrainAway](screenshots/StrainAway-macOS-v1.1-Screnshots/macOS_StrainAway_dark_about.png)
 
 ## Customise Notification Settings
