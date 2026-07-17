@@ -8,7 +8,7 @@ away for 20 seconds — a simple habit to help **reduce digital eye strain (DES)
 There is research to suggest the 20-20-20 rule may not be as affective as once believed, 
 to address this I have added a custom notification interval and break duration feature on macOS-v1.1.
 
-**Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. This app acts as a general habit promoting tool and should not replace professional ophthalmic or medical consultation.**
+**Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. The 20-20-20 guidance is a general habit recommendation and should not replace professional ophthalmic or medical consultation.**
 
 # MacOS-v1.1 Screenshots
 

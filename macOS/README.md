@@ -5,7 +5,7 @@ reminder interval of your choosing to help reduce digital eye strain (DES).
 
 A Windows version of this app is also available — See the [windows README.md](../windows/README.md) file for setup and build instructions.
 
-**Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. This app acts as a general habit promoting tool and should not replace professional ophthalmic or medical consultation.**
+**Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. The 20-20-20 guidance is a general habit recommendation and should not replace professional ophthalmic or medical consultation.**
 
 # FEATURES
 

@@ -8,7 +8,7 @@ This is the Windows counterpart to the native macOS version found in
 the mac/ folder of this repository, built in Python rather than Swift.
 For setup and build instructions for the Mac version of this app see the [macOS README.md](../macOS/README.md) file.
 
-Disclainer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. This app acts as a general habit promoting tool and should not replace professional ophthalmic or medical consultation
+**Disclaimer: This application is a general wellness tool designed to encourage ergonomic screen breaks. It does not provide medical advice, diagnosis, or treatment. The 20-20-20 guidance is a general habit recommendation and should not replace professional ophthalmic or medical consultation.**
 
 # FEATURES
 - Lives quietly in the system tray, no taskbar window
