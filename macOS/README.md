@@ -76,5 +76,5 @@ This project is licensed under the MIT License — see the [LICENSE](../LICENSE)
 # AUTHOR
 ClincialScript
 
-This project — code, documentation, and design — was built with the
-assistance of Claude (Anthropic) and Gemini (Google).
+This project — primarily the code — was built with the
+*assistance* of Claude (Anthropic) and Gemini (Google).

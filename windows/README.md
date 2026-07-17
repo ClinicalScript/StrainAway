@@ -100,5 +100,5 @@ in the root of this repository.
 # AUTHOR
 ClinicalScript
 
-This project — code, documentation, and design — was built with the
-assistance of Claude (Anthropic).
+This project — primarily the code— was built with the
+*assistance* of Claude (Anthropic).
